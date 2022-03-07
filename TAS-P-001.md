@@ -46,6 +46,8 @@ For paddle, 5th byte of input report used.
 
 For buttons, 1st and 2nd byte of input report used.
 
+| button | 2bytes of input report |
+| ------------- | ------------- |
 | LEFT-A | 80 00 |
 | RIGHT-A | 00 01 |
 | START | 02 00 |
