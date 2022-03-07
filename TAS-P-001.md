@@ -4,7 +4,7 @@ This is Trackball and Paddle device for TAITO EGRET2-mini.
 # USB Packet capture
 
 2 USB capture files at this point: these capture files are taken using Total Phase / Beagle USB 480 capture device.
-You can download .tdc file viewer (Datacenter Software) from their download site (with free e-mail addrress registeration)
+You can download .tdc file viewer (Datacenter Software) from their download site (with free e-mail address registeration)
 
 https://www.totalphase.com/products/data-center/
 
@@ -26,6 +26,14 @@ See Configuration Descriptor Picture (tas-p-001-windows10-report_descriptor.png)
 
 # Attached Image files
 
+* TAITO_USB_Paddle_and_Trackball.png
+
+Windows 10 settings panel display.
+
+* TAITO_USB_Paddle_and_Trackball_DeviceManager.png
+
+Windows 10 Device Manager display.
+
 * tas-p-001-windows10-configure.png
 
 1st configuration getting string descriptor. You can see "TAITO..." strings in Unicode.
@@ -38,11 +46,11 @@ Report Descripter defining the input report format.
 
 For trackball, 3rd and 4th bytes of input report used.
 
-* tas-p-001-windows10-button.png
+* tas-p-001-windows10-paddlel.png
 
 For paddle, 5th byte of input report used.
 
-* tas-p-001-windows10-paddlel.png
+* tas-p-001-windows10-button.png
 
 For buttons, 1st and 2nd byte of input report used.
 
