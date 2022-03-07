@@ -30,24 +30,24 @@ See Configuration Descriptor Picture (tas-p-001-windows10-report_descriptor.png)
 
 1st configuration getting string descriptor. You can see "TAITO..." strings in Unicode.
 
-*tas-p-001-windows10-report_descriptor.png
+* tas-p-001-windows10-report_descriptor.png
 
 Report Descripter defining the input report format.
 
-*tas-p-001-windows10-trackball.png
+* tas-p-001-windows10-trackball.png
 
 For trackball, 3rd and 4th bytes of input report used.
 
-*tas-p-001-windows10-button.png
+* tas-p-001-windows10-button.png
 
 For paddle, 5th byte of input report used.
 
-*tas-p-001-windows10-paddlel.png
+* tas-p-001-windows10-paddlel.png
 
 For buttons, 1st and 2nd byte of input report used.
 
-LEFT-A : 80 00
-RIGHT-A : 00 01
-START : 02 00
-MENU : 10 00
-CREDIT : 04 00
+| LEFT-A | 80 00 |
+| RIGHT-A | 00 01 |
+| START | 02 00 |
+| MENU | 10 00 |
+| CREDIT | 04 00 |
