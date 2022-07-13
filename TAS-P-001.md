@@ -28,6 +28,8 @@ See Configuration Descriptor Picture (tas-p-001-windows10-report_descriptor.png)
 
 * TAITO_USB_Paddle_and_Trackball.png
 
+![Windows 10 settings panel display](/img/TAITO_USB_Paddle_and_Trackball.png)
+
 Windows 10 settings panel display.
 
 * TAITO_USB_Paddle_and_Trackball_DeviceManager.png
