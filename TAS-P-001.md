@@ -34,25 +34,37 @@ Windows 10 settings panel display.
 
 * TAITO_USB_Paddle_and_Trackball_DeviceManager.png
 
+![Windows 10 Device Manager display](/img/TAITO_USB_Paddle_and_Trackball_DeviceManager.png)
+
 Windows 10 Device Manager display.
 
 * tas-p-001-windows10-configure.png
+
+![](/img/tas-p-001-windows10-configure.png)
 
 1st configuration getting string descriptor. You can see "TAITO..." strings in Unicode.
 
 * tas-p-001-windows10-report_descriptor.png
 
+![](/img/tas-p-001-windows10-report_descriptor.png)
+
 Report Descripter defining the input report format.
 
 * tas-p-001-windows10-trackball.png
+
+![](/img/tas-p-001-windows10-trackball.png)
 
 For trackball, 3rd and 4th bytes of input report used.
 
 * tas-p-001-windows10-paddlel.png
 
+![](/img/tas-p-001-windows10-paddlel.png)
+
 For paddle, 5th byte of input report used.
 
 * tas-p-001-windows10-button.png
+
+![](/img/tas-p-001-windows10-button.png)
 
 For buttons, 1st and 2nd byte of input report used.
 
